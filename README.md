@@ -1,9 +1,13 @@
 This notebook demonstrates our solution for the datathon challenge. The goal of the task is to classify images effectively using Swin Transformers, leveraging transfer learning techniques and efficient training strategies.
 
 Team Members:
--Yusuf Demir\n
--İlker Yetimoğlu\n
+
+-Yusuf Demir
+
+-İlker Yetimoğlu
+
 -Ahmet Emin Ersoy
+
 
 The notebook is organized into sections for better readability and to ensure seamless reproducibility across different environments.
 
